@@ -1,0 +1,1 @@
+Xamarin forms is a cross platform service used for development of the Mobile Applications in both iOS and Android. The selling of the Second hand books is the application developed which consists of list of products.
