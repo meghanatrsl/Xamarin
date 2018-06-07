@@ -1,0 +1,9 @@
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\bin\Debug\netstandard2.0\test.deps.json
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\bin\Debug\netstandard2.0\test.dll
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\bin\Debug\netstandard2.0\test.pdb
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.csprojAssemblyReference.cache
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.dll
+C:\Users\Meghana.Thiruchuri\Desktop\web\test\test\test\obj\Debug\netstandard2.0\test.pdb
